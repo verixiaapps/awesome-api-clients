@@ -73,3 +73,4 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [HttpRunner](https://httprunner.com/httprunner/) ([repo](https://github.com/httprunner/httprunner))
 - [k6](https://k6.io) ([repo](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
 - [Artillery](https://artillery.io) ([repo](https://github.com/artilleryio/artillery)) - Load testing at cloud-scale
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
